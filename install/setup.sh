@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-GCF_PATH="/usr/local/futebol-cmf-ufes"
+GCF_PATH="/usr/local/cmf-futebol"
 GCF_SOURCE="${GCF_PATH}/source_code/"
 GCF_IPADDRESS=$(ifconfig eth0 | grep "inet " | cut -d' ' -f 12 | cut -d: -f2)
 
