@@ -2,10 +2,10 @@
 
 ## Requirements
 * Server that will host the AM:
- * Ubuntu 14.04
- * Python 2.7
+  * Ubuntu 14.04
+  * Python 2.7
 * Resources to be federated:
- * OpenStack environment (tested on Liberty, Newton and Ocata versions).
+  * OpenStack environment (tested on Liberty, Newton and Ocata versions).
 
 ## Installing
 
