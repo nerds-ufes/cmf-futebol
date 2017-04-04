@@ -1,14 +1,19 @@
-"""
-gcf_bonfire_plugin
-==================
-
-<insert nifty doc string here>
-"""
-
-__title__ = 'gcf_bonfire_plugin'
-__version__ = '0.1'
-__author__ = 'David Margery <david.margery@inria.fr>'
-__license__ = 'CeCILL-B'
-__copyright__ = 'Copyright 2015 Inria - contributor(s): David Margery'
-
-# from .testbed import MyTestbedDelegate
+# ---------------------------------------------------------------------------------
+# FUTEBOL Control and Management Framework for UFES Testbed
+# Copyright (C) 2016-2019  Isabella de Albuquerque Ceravolo,
+# Diego Giacomelli Cardoso
+#
+# This program is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License
+# as published by the Free Software Foundation; either version 2
+# of the License, or (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software
+# Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+# ---------------------------------------------------------------------------------
