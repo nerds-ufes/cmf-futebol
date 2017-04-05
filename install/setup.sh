@@ -27,7 +27,7 @@ GCF_IPADDRESS=$(ifconfig eth0 | grep "inet " | cut -d' ' -f 12 | cut -d: -f2)
 echo "====================== Installing OpenStack dependencies ======================"
 apt-get update
 apt-get install python-dev python-pip -y
-pip install python-openstackclient
+pip install pytz python-openstackclient
 
 echo "========================= Installing GCF dependencies ========================="
 sudo apt-get install python-m2crypto python-dateutil python-openssl libxmlsec1 xmlsec1 libxmlsec1-openssl libxmlsec1-dev -y
